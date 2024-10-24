@@ -2,7 +2,7 @@
 # Emotion-Based Music Recommendation System
 
 ## Description
-This project utilizes a sophisticated Convolutional Neural Network, specifically the ResNet model, to analyze facial expressions and predict emotions with a 95% accuracy rate. Based on the emotion detected, the system recommends a selection of music tracks that align with the user's current mood.
+This group project utilizes a sophisticated Convolutional Neural Network, specifically the ResNet model, to analyze facial expressions and predict emotions with a 95% accuracy rate. Based on the emotion detected, the system recommends a selection of music tracks that align with the user's current mood.
 
 ## Model Details
 We've employed the ResNet model due to its deep residual learning framework which enables the training of deeper networks by leveraging skip connections or shortcuts to jump over some layers. 
